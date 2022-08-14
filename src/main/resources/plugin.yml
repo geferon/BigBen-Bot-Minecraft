@@ -1,0 +1,4 @@
+name: BigBen
+version: ${project.version}
+author: Geferon
+main: net.geferon.bigben.BigBenPlugin
